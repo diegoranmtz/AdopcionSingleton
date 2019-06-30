@@ -1,0 +1,7 @@
+C:\Users\consultv93\Documents\New folder\Actividad1\Actividad1\bin\Debug\Actividad1.exe.config
+C:\Users\consultv93\Documents\New folder\Actividad1\Actividad1\bin\Debug\Actividad1.exe
+C:\Users\consultv93\Documents\New folder\Actividad1\Actividad1\bin\Debug\Actividad1.pdb
+C:\Users\consultv93\Documents\New folder\Actividad1\Actividad1\obj\Debug\Actividad1.csprojAssemblyReference.cache
+C:\Users\consultv93\Documents\New folder\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\consultv93\Documents\New folder\Actividad1\Actividad1\obj\Debug\Actividad1.exe
+C:\Users\consultv93\Documents\New folder\Actividad1\Actividad1\obj\Debug\Actividad1.pdb
